@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @helenajambor, Biomedical scientist specialised in data visualisation at the University Hospital Dresden. 
+Hi, I’m @helenajambor, Biomedical scientist specialised in data visualisation at the University Hospital Dresden. 
 I also am trainer and consultant for life science data visualisation and lecturer for bioinformatics Berlin Hochschule für Technik. 
 
 Get in touch via twitter (@helenajambor) or Email helena.jambor - at - posteo.net 
