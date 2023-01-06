@@ -1,4 +1,4 @@
-Hi, I’m @helenajambor. I am a data visualisation scientists at the university hospital Dresden, lecturer at Berlin Hochschule für Technik for bioinformatics, and trainer in data visualization. 
+Hi, I’m @helenajambor. I am a data visualisation scientists at the university hospital Dresden, lecturer for bioinformatics at "Berlin Hochschule für Technik" and teach data visualization. 
 I studied biology in Berlin and Cambridge/UK and was trained in art.   
 
 
