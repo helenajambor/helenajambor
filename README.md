@@ -5,8 +5,10 @@ I studied biology in Berlin and Cambridge/UK and was trained in art.
 
 **Get in touch** Twitter @helenajambor, Mail helena.jambor - at - posteo.net 
 
-My blog (not gibhub yet, but coming): 
-https://helenajambor.wordpress.com/eine-seite/
+My blog
+https://helenajamborwrites.netlify.app/
+
+(old blog, migration is progress but slow: https://helenajambor.wordpress.com/eine-seite/)
 
 All my activities are summarised here: 
 http://helenajambor.weebly.com/
